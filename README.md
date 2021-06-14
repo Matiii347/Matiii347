@@ -1,4 +1,4 @@
-- 👋 Holaa, Soy @Matiii347
+- 👋 Holaa, Soy @Matiii347.
 - 👀 Estoy interesado en un correcto uso de git por ahora ... estudiante de programacion.
 - 🌱 Aprendimos Pseint,Java,SQL y... ahora Git.
 - 💞️ Por ahora busco colaborar con mis compañeros y amigos ...
